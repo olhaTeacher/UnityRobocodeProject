@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 47e520e56542d8f44860ae2fa5a257d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ffde4fb82c0443b5230c708e113c6
+      internalID: -1226678809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_1'
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 445
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b3493a67f25f744be9264d8a98f412
+      internalID: -2033590384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_2'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 445
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30aaece0ce56f34a85b86e65ef6a92a
+      internalID: -1213486756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_3'
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 455
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b7448ed3349274ca498a7b5688b11f
+      internalID: 699403006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_4'
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 425
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1238940fd6ffb3c4fadbbf5df4255423
+      internalID: -76364308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_5'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 395
+        width: 140
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c705de354926e0f478b28fbd91befbb0
+      internalID: 1767960810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_6'
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 350
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b016d4b20cd214b944f184d4cecd98
+      internalID: -1209733901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_7'
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 360
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1aff1430cbe5742ad98d4603a32cd3
+      internalID: -969047620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_8'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 365
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cfd9675e42c2144a8ac3cb0b83ebee
+      internalID: 1743266508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_9'
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95edd84b9f7094c459f1b8eec12a8b36
+      internalID: -1628306919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_10'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 260
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b71110ee59ef074bb3fafc752f244e5
+      internalID: 843625004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_11'
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 260
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db6e7d3b5cb3f740b0ff383b5bbab27
+      internalID: 1747159165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_12'
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 260
+        width: 195
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ca3cc64e64b504d8db44524f97a9b3
+      internalID: -1347956806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_13'
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 145
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634cbce9ecd41a746a892b37cae5e859
+      internalID: -845040718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_14'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 125
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e880e5ef0349ca64798d616b6e432154
+      internalID: -490788509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_15'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 65
+        width: 125
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71217036d75eb0745b24ea824ac79afe
+      internalID: 158613067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[FR-FI]-OFFICE+HOME_DETAILS_16'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f043b9563cb44aa4ae1c573928e10
+      internalID: -191893503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[FR-FI]-OFFICE+HOME_DETAILS_0': -1226678809
+      '[FR-FI]-OFFICE+HOME_DETAILS_1': -2033590384
+      '[FR-FI]-OFFICE+HOME_DETAILS_10': 843625004
+      '[FR-FI]-OFFICE+HOME_DETAILS_11': 1747159165
+      '[FR-FI]-OFFICE+HOME_DETAILS_12': -1347956806
+      '[FR-FI]-OFFICE+HOME_DETAILS_13': -845040718
+      '[FR-FI]-OFFICE+HOME_DETAILS_14': -490788509
+      '[FR-FI]-OFFICE+HOME_DETAILS_15': 158613067
+      '[FR-FI]-OFFICE+HOME_DETAILS_16': -191893503
+      '[FR-FI]-OFFICE+HOME_DETAILS_2': -1213486756
+      '[FR-FI]-OFFICE+HOME_DETAILS_3': 699403006
+      '[FR-FI]-OFFICE+HOME_DETAILS_4': -76364308
+      '[FR-FI]-OFFICE+HOME_DETAILS_5': 1767960810
+      '[FR-FI]-OFFICE+HOME_DETAILS_6': -1209733901
+      '[FR-FI]-OFFICE+HOME_DETAILS_7': -969047620
+      '[FR-FI]-OFFICE+HOME_DETAILS_8': 1743266508
+      '[FR-FI]-OFFICE+HOME_DETAILS_9': -1628306919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
